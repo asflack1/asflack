@@ -1,10 +1,10 @@
 # asflack
 
 Christian Uriel Garcia Herrera
-Alexis Lara Salinas
+
 hacking
-Desarrollo de un protocolo para la deteccion de vulnerabilidades en los dominios web 
-TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLAGUERRERO 
+Desarrollo de un protocolo para la deteccion de vulnerabilidades en dominios web 
+
 Este proyecto se realizo en terminos de investigacion, con direccion a la modalidad de seguridad informatica.
 
 Las políticas de privacidad de un proyecto open source pueden variar dependiendo del proyecto, pero generalmente incluyen lo siguiente:
